@@ -99,3 +99,9 @@ This project highlights the use of CNNs in solving image classification tasks us
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/d6ee1c43-a5ce-412d-b898-beebc98e4c50)
+
+![Image](https://github.com/user-attachments/assets/1537b661-45ed-4acb-87de-43f41552967c)
+
+![Image](https://github.com/user-attachments/assets/a424c38b-4741-46f0-b53e-349b3d138c6e)
+
